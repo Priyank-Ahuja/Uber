@@ -1,0 +1,7 @@
+- alias: hasura
+  config:
+    configmap: controller-conf
+    namespace: layover47-hasura
+  data: null
+  kubeContext: layover47
+  name: layover47
